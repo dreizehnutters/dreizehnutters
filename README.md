@@ -34,7 +34,8 @@
 
 ---
 
-[Please take a look at my latest blog post!](https://gist.github.com/dreizehnutters/5c315b2088a1666ff877c3cea363d775)
+Please take a look at my latest blog post!
+[Automating the First Hours of My Internal Vulnerability Assessments](https://gist.github.com/dreizehnutters/5c315b2088a1666ff877c3cea363d775)
 
 ---
 
