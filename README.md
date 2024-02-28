@@ -32,6 +32,9 @@
    <tr></tr>
 </table>
 
+---
+
+[Please take a look at my latest blog post!](https://gist.github.com/dreizehnutters/5c315b2088a1666ff877c3cea363d775)
 
 ---
 
